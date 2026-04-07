@@ -1,0 +1,49 @@
+@media print {
+  body {
+    --code-styler-codeblock-background-colour: #fdf6e3 !important;
+    --code-styler-codeblock-text-colour: #586e75 !important;
+    --code-styler-gutter-background-colour: #eee8d5 !important;
+    --code-styler-gutter-text-colour: #657b83 !important;
+    --code-styler-gutter-active-text-colour: #839496 !important;
+    --code-styler-header-background-colour: #eee8d5 !important;
+    --code-styler-header-title-text-colour: #268bd2 !important;
+    --code-styler-header-language-tag-background-colour: #93a1a1 !important;
+    --code-styler-header-language-tag-text-colour: #2aa198 !important;
+    --code-styler-header-separator-colour: #b58900 !important;
+    --code-styler-header-external-reference-repository: #dc322f !important;
+    --code-styler-header-external-reference-version: #cb4b16 !important;
+    --code-styler-header-external-reference-timestamp: #657b83 !important;
+    --code-styler-active-codeblock-line-colour: #f5f0e5 !important;
+    --code-styler-active-editor-line-colour: rgba(131, 148, 150, 0.2) !important;
+    --code-styler-button-colour: #93a1a1 !important;
+    --code-styler-button-active-colour: #268bd2 !important;
+    --code-styler-inline-colour: #586e75 !important;
+    --code-styler-inline-colour-active: #268bd2 !important;
+    --code-styler-inline-background-colour: #fdf6e3 !important;
+    --code-styler-inline-title-colour: #2aa198 !important;
+    --code-styler-default-highlight-colour: #ffe6cc !important;
+    --code-styler-alt-highlight-colour: #f7dcdc !important;
+    --code-styler-info-highlight-colour: #cce6ff !important;
+
+    /* Syntax colors */
+    --code-background: #fdf6e3 !important;
+    --code-normal: #586e75 !important;
+    --code-comment: #93a1a1 !important;
+    --code-function: #b58900 !important;
+    --code-important: #cb4b16 !important;
+    --code-keyword: #d33682 !important;
+    --code-operator: #dc322f !important;
+    --code-property: #2aa198 !important;
+    --code-punctuation: #839496 !important;
+    --code-string: #859900 !important;
+    --code-tag: #dc322f !important;
+    --code-value: #6c71c4 !important;
+
+    /* Structural properties (preserved) */
+    --code-white-space: pre-wrap;
+    --code-border-width: 0px;
+    --code-border-color: #839496 !important;
+    --code-radius: var(--radius-s);
+    --code-size: var(--font-smaller);
+  }
+}

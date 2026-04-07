@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Minimal",
+  "textFontFamily": "",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "betterPdfExport-codeHighlightColours",
+    "betterPdfExport-fontOnly"
+  ],
+  "showRibbon": false,
+  "theme": "obsidian"
+}

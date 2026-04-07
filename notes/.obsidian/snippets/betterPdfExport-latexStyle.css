@@ -1,0 +1,45 @@
+@media print {
+  body {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 12pt;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 1in; /* Replaces body margin with padding */
+    max-width: none;
+    text-align: justify;
+    hyphens: auto;
+    word-break: normal;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    overflow: hidden; /* Prevents content overflow */
+  }
+
+  /* Ensure all content respects page boundaries */
+  h1, h2, h3, h4, h5, h6,
+  p, blockquote, ul, ol, table {
+    max-width: 100%;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
+
+  /* Adjust code blocks to prevent overflow */
+  pre {
+    font-size: 9pt;
+    overflow-x: hidden; /* Prevents horizontal overflow */
+    white-space: pre-wrap; /* Allows line wrapping */
+    word-break: break-all;
+  }
+
+  /* Force images/tables to fit within content area */
+  img, figure, table {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+    margin: 0 auto;
+  }
+
+  /* Add buffer space around page edges */
+  @page {
+    margin: 0.75in; /* Reduced from 1in for better compatibility */
+  }
+}

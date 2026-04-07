@@ -1,0 +1,28 @@
+{
+  "folder": [
+    {
+      "path": "{{current}}",
+      "commandName": "Current Folder",
+      "template": {
+        "type": "none",
+        "format": "{{current}}",
+        "position": "prepend",
+        "separator": "",
+        "increment": true
+      },
+      "fileName": "Untitled",
+      "opening": "current",
+      "focused": false,
+      "splitDefault": "horizontal",
+      "alreadyExistOpening": {
+        "opening": "newTab",
+        "splitDefault": "horizontal",
+        "focused": true
+      },
+      "fileMenu": false
+    }
+  ],
+  "customVariables": [],
+  "timeOutForInlineTitle": 50,
+  "enableAllFolder": false
+}

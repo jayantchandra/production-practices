@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1737620073188,
+      "items": [],
+      "title": "Untitled group"
+    },
+    {
+      "type": "group",
+      "ctime": 1737689207026,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1737689207026,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1737689227554,
+              "items": [],
+              "title": "Chapter 1.0 - Introduction"
+            },
+            {
+              "type": "group",
+              "ctime": 1737689207026,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1737689207026,
+                  "items": [],
+                  "title": "Chapter 1.2.1 - IO"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1737689207026,
+                  "path": "Chapters/Chapter 1 - The Node.js Platform/Chapter 1.0 - Introduction/Chapter 1.0.2 - How Node.js works.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Chapter 1.2 - How Node.js works"
+            }
+          ],
+          "title": "\\\\Chapter 1 - The Node.js Platform"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

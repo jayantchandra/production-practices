@@ -1,0 +1,29 @@
+@media print {
+  body {
+    font-family: "Georgia", "Times New Roman", serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Garamond", "Palatino", serif;
+  }
+
+  p {
+    font-family: "Georgia", "Times New Roman", serif;
+  }
+
+  a {
+    font-family: "Georgia", "Times New Roman", serif;
+  }
+
+  pre, code {
+    font-family: "Consolas", "Courier New", monospace;
+  }
+
+  blockquote {
+    font-family: "Palatino", "Georgia", serif;
+  }
+
+  table {
+    font-family: "Georgia", "Times New Roman", serif;
+  }
+}
