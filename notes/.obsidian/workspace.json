@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/1. Backend Setup.md",
+                "file": "frontend/1. Frontend setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Backend Setup"
+              "title": "1. Frontend setup"
             }
           }
         ],
@@ -218,6 +218,8 @@
   "active": "8c3dfac51c2fd345",
   "lastOpenFiles": [
     "backend/1. Backend Setup.md",
+    "frontend/1. Frontend setup.md",
+    "frontend",
     "backend",
     "projectSetupNotes/Node/13. Query, Body, Route params.md",
     "projectSetupNotes/Node/0.5 - 404 and Global error handling middleware.md",
@@ -246,14 +248,12 @@
     "production-notes",
     "projectSetupNotes/Node/2. Logging setup.md",
     "projectSetupNotes/Node/0.2 Project setup.md",
-    "100-questions/24 - 30 SQL questions.md",
     "projectSetupNotes/Git",
     "projectSetupNotes/Socket.io",
     "projectSetupNotes/Vite-Frontend/404.png",
     "projectSetupNotes/Vite-Frontend",
     "projectSetupNotes/NextJS-frontend",
     "projectSetupNotes/Node",
-    "projectSetupNotes",
     "imageRef/Pasted image 20250827160820.png",
     "imageRef/Pasted image 20250907162141.png",
     "imageRef/Pasted image 20250827161431.png",
